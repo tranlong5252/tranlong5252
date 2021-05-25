@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+- 💻 Java gopro
+- ⏳ Coming soon... 
+
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tranlong5252&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=02f945&icon_color=30475&text_color=D3D3D3&theme=dark" alt="tranlong5252's Github Stats">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlong5252&layout=compact&text_color=daf7dc&bg_color=151515">
+
 
 <!--
 **tranlong5252/tranlong5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
