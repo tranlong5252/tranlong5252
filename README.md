@@ -4,15 +4,15 @@
 
 <br>
 
-## Links 🔗
+### Links 🔗
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/388287718779650058)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/tranlong5252)
 
-## Things i use 💻
+### Things i use 💻
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
 [![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
-  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white "IntelliJ IDEA")](https://www.jetbrains.com/idea/)
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white "IntelliJ IDEA")](https://www.jetbrains.com/idea/)
 
 <br>
 
