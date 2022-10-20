@@ -1,5 +1,5 @@
 ### Hi there</h2>
-- 💻 I’m currently learning Java
+- 💻 I’m currently learning Java and Kotlin
 - ⚙ I’m currently working on creating Minecraft plugins
 - ⏳ Coming soon...
 
