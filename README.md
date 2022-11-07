@@ -6,8 +6,8 @@
 <br>
 
 ### Links 🔗
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/388287718779650058)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/tranlong5252)
+[![tranlong5252#1526](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/388287718779650058)
+[![tranlong5252](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/tranlong5252)
 
 ### Things I use 💻
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
